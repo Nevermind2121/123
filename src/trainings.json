@@ -1,0 +1,36 @@
+// {
+//   "trainings": [{
+//       "name": "Barbell Curl",
+//       "muscleGroup": "Biceps",
+//       "mainMuscle": "Long Head",
+//       "secondaryMuscle": ["Short Head"],
+//       "description": "",
+//       "image": ""
+//     },
+//     {
+//       "name": "Concentration Curl",
+//       "muscleGroup": "Biceps",
+//       "mainMuscle": "Short Head",
+//       "secondaryMuscle": ["Long Head"],
+//       "description": "",
+//       "image": ""
+//     },
+//     {
+//       "name": "Close-Grip Barbell Bench Press",
+//       "muscleGroup": "Triceps",
+//       "mainMuscle": "Long Head",
+//       "secondaryMuscle": ["Lateral Head", "Medial Head"],
+//       "description": "",
+//       "image": ""
+//     },
+//     {
+//       "name": "Dip Machine",
+//       "muscleGroup": "Triceps",
+//       "mainMuscle": "Lateral Head",
+//       "secondaryMuscle": ["Long Head", "Medial Head"],
+//       "description": "Dip machine",
+//       "image": ""
+//     }
+//   ]
+// }
+{ "name":"John" }

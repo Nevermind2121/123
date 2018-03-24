@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Long Head",
+    "group": "Biceps",
+    "image": "http://www.fitprince.com/wp-content/uploads/2017/04/Biceps-anatomy.jpg",
+    "description": "The upper end of the biceps muscle has two tendons that attach it to bones in the shoulder. The long head attaches to the top of the shoulder socket (glenoid)."
+  },
+  {
+    "name": "Short Head",
+    "group": "Biceps",
+    "image": "http://www.fitprince.com/wp-content/uploads/2017/04/Biceps-anatomy.jpg",
+    "description": "The upper end of the biceps muscle has two tendons that attach it to bones in the shoulder. The short head attaches to a bump on the shoulder blade called the coracoid process."
+  },
+  {
+    "name": "Long Head",
+    "group": "Triceps",
+    "image": "http://seannal.com/images/tricep-long-head.jpg",
+    "description": "The triceps or triceps brachii consist of three heads, the long head, the medial head and the lateral head. The long head is the largest of the three and runs along the bottom part of the humerus or upper arm bone."
+  },
+  {
+    "name": "Lateral Head",
+    "group": "Triceps",
+    "image": "https://1.bp.blogspot.com/-EkFSy2sPN2o/UgM4ekoKj8I/AAAAAAAAAiI/MwwVpBu0d6g/s1600/TRICEP+WOR1+-+Copy.png",
+    "description": "The triceps or triceps brachii consist of three heads, the long head, the medial head and the lateral head."
+  },
+  {
+    "name": "Medial Head",
+    "group": "Triceps",
+    "image": "http://seannal.com/images/tricep-medial-head.jpg",
+    "description": "The triceps or triceps brachii consist of three heads, the long head, the medial head and the lateral head. The medial head is near the mid line and is mostly covered by the long head and lateral head."
+  },
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Biceps",
+    "muscles": ["Long Head", "Short Head"],
+    "desciption": "Biceps muscle group description",
+    "image": "",
+  },
+  {
+    "name": "Triceps",
+    "muscles": ["Long Head", "Lateral Head", "Medial Head"],
+    "description": "Triceps muscle group description",
+    "image": "",
+  },
+]
